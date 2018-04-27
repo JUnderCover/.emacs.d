@@ -1,0 +1,88 @@
+pwd
+cd
+clear
+
+clear
+
+pwd
+cd Documents/
+cd Georgia\ Tech/
+cd Wise Research
+ls
+cd "Wise Research"
+ls
+pipenv shell
+pipenvshell
+pipenv shell
+exit
+cd Documents/
+cd Georgia\ Tech/
+cd Wise Research
+cd "Wise Research"
+python p2combined.py 
+pipenv shell
+/bin/bash pipenvshell
+pwd
+pwd
+ls
+cd Wise Research
+cd "Wise Research"
+pipenv shell
+pwd
+cd ..
+cd WiseResearch/
+pipenv shell
+cd ..
+ls
+cd Test1
+pipenv shell
+pipenv shell
+pipenv shell
+cd cd..
+cd ..
+cd WiseResearch/
+pipenvshell
+pipenv shell
+python 
+cd env/
+pipenv shell
+pipenv shell
+cd ..
+cd WiseResearch/
+pwd
+pipenv shell
+exit
+pwd
+cd "Wise Research"
+ls
+pip run python p2combined.py 
+pipenv run python p2combined.py 
+pwd
+cd ..
+ls
+cd ..
+cd ~
+pwd
+cd .emacs.d/
+ls
+cd ..
+ls
+clear
+
+ls
+emcas .emacs
+emacs .emacs
+dired
+ls
+pwd
+pwd
+ls
+cd ~
+pwd
+cd .emacs.d/
+ls
+emacs init.el
+--version
+pwd
+ls
+python
